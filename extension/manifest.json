@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "다락방의 꽃들 한글 자막",
+  "version": "0.3.4",
+  "description": "Lifetime 재생 화면에 한국어 자막을 띄웁니다. 아이콘을 누르면 켜집니다.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "한글 자막 켜기" },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": { "default": "Alt+Shift+S", "mac": "Alt+Shift+S" },
+      "description": "한글 자막 켜기"
+    },
+    "reload-extension": {
+      "suggested_key": { "default": "Alt+Shift+R", "mac": "Alt+Shift+R" },
+      "description": "확장 새로고침 (자막 켜 둔 탭에 새 버전 자동 적용)"
+    }
+  }
+}

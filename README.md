@@ -5,8 +5,7 @@
 미국 Lifetime 드라마 **Flowers in the Attic: The Origin** (2022, 4부작) 비공식 한국어 자막.
 국내 정식 공개 전이라 직접 번역한 팬 자막. Lifetime 재생 화면 위에 한국어 자막을 띄우는 크롬 확장 포함.
 
-- 현재 공개 범위: **1화 (Part 1: The Marriage), 2화 (Part 2: The Mother), 3화 (Part 3: The Murderer)**
-- 4화: 검수 끝나는 대로 공개 예정
+- 현재 공개 범위: **1화 (Part 1: The Marriage), 2화 (Part 2: The Mother), 3화 (Part 3: The Murderer), 4화 (Part 4: The Martyr)** — 전편 공개 완료
 
 ## 만든 이유
 
@@ -119,7 +118,7 @@ Lifetime은 회차마다 광고가 여러 번 나와요. 확장이 광고를 알
 
 ### 확장 없이 쓰기
 
-- `subtitles/e1.ko.srt` ~ `subtitles/e3.ko.srt` — 일반 SRT 자막 파일
+- `subtitles/e1.ko.srt` ~ `subtitles/e4.ko.srt` — 일반 SRT 자막 파일
 - SRT를 불러올 수 있는 플레이어라면 그대로 사용 가능
 - 출처에 따라 영상 시작 시점이 달라서 싱크 조정이 필요할 수 있음
 
